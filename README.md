@@ -36,4 +36,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-![snake gif](https://github.com/moouraajv/Moouraajv-Profile/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/moouraajv/moouraajv/blob/output/github-contribution-grid-snake-dark.svg)
