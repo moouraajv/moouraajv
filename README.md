@@ -26,9 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="GIT" width="48" height="48" style="margin: 4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" style="margin: 4px;"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moouraajv&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/joao-victor-mbp" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="João Victor Moura's LinkedIn"/></a> <a href="mailto:joaovictormbpdev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="João Victor Moura's Email"/></a></p>
